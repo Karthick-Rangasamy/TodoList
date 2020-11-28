@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin-top: 5%;
+}
+.Todo {
+  height: 30%;
+}
+
+.button {
+  display: inline;
+}
+
+.todo {
+  margin-left: 20%;
+  margin-top: 1%;
+  margin-right: 20%;
+}
+
+.content {
+  background-color: rgb(255, 255, 255);
+  color: red;
+  font-size: 20px;
+}
+
+.button {
+  display: inline;
+  margin-right: 0%;
+}
+
+.sty {
+  width: 600px;
+  height: 40px;
+}
